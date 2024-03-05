@@ -1,5 +1,25 @@
 
 9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
-#src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+`
+0src/main/java/org/example/MovieTicketClient.java,2\e\2e23d58ddfa598c73fc09f31837d08e886863f33
+`
+0src/main/java/org/example/MovieTicketServer.java,2\8\286b89167d560f34af148d0f592712c5e0c1d5ca
+9
+	Report.md,1\a\1aa8a5c0bf4a49c6ceff3a7501d9b0d50bb49328
+Å
+Q.idea/sonarlint/securityhotspotstore/2/e/2e23d58ddfa598c73fc09f31837d08e886863f33,3\3\33bcb406b4b216a694fa8aef7f959bed5a0b801b
+Å
+Q.idea/sonarlint/securityhotspotstore/2/8/286b89167d560f34af148d0f592712c5e0c1d5ca,7\0\70f604c5c67e3ffbee4e3ec43f858b67bb3382e1
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+?
+thread-sync.iml,5\7\5742e1274e4f6f0afa5e982eeb35e0ae405f6ff5
+w
+G.idea/sonarlint/issuestore/1/a/1aa8a5c0bf4a49c6ceff3a7501d9b0d50bb49328,a\4\a4ba125076da71ee12d58e94acb515298951fa4d
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/1/a/1aa8a5c0bf4a49c6ceff3a7501d9b0d50bb49328,4\e\4e12b1a3ef9a8bb1b58d43acaf99da48edec9a57
